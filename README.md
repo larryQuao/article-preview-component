@@ -46,5 +46,3 @@ I learnt more about using Javascript DOM and more of Sass
 ## Author
 
 - Frontend Mentor - [@larryQuao](https://www.frontendmentor.io/profile/larryQuao)
-
-## Acknowledgments
