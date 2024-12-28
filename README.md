@@ -45,6 +45,6 @@ I learnt more about using Javascript DOM and more of Sass
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@larryQuao](https://www.frontendmentor.io/profile/larryQuao)
 
 ## Acknowledgments
