@@ -28,6 +28,11 @@ $desktop: 1024px;
 
 body {
   background-color: $light-grayish-blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .card {
